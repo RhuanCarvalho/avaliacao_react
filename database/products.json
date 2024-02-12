@@ -1,0 +1,529 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Smartphone X Pro",
+            "price": 799.99,
+            "category": "Electronics",
+            "description": "The Smartphone X Pro is the latest model with an impressive display, advanced camera system, and powerful performance."
+        },
+        {
+            "id": 2,
+            "title": "Elite Running Shoes",
+            "price": 129.99,
+            "category": "Footwear",
+            "description": "Elevate your running experience with the Elite Running Shoes. Designed for comfort and maximum performance, these shoes are perfect for your daily run."
+        },
+        {
+            "id": 3,
+            "title": "Wireless Noise-Canceling Earbuds",
+            "price": 149.99,
+            "category": "Electronics",
+            "description": "Immerse yourself in crystal-clear sound with our Wireless Noise-Canceling Earbuds. Enjoy your favorite music without distractions."
+        },
+        {
+            "id": 4,
+            "title": "Designer Polarized Sunglasses",
+            "price": 199.99,
+            "category": "Accessories",
+            "description": "Stay stylish and protected from the sun with our Designer Polarized Sunglasses. These sunglasses blend fashion and functionality."
+        },
+        {
+            "id": 5,
+            "title": "Technical Laptop Backpack",
+            "price": 89.99,
+            "category": "Accessories",
+            "description": "Safely and stylishly transport your laptop with our Technical Laptop Backpack. Designed for maximum protection and organization."
+        },
+        {
+            "id": 6,
+            "title": "Multifunctional Smartwatch",
+            "price": 179.99,
+            "category": "Electronics",
+            "description": "Stay connected and monitor your health with our Multifunctional Smartwatch. An essential companion for an active lifestyle."
+        },
+        {
+            "id": 7,
+            "title": "Waterproof 4K Action Camera",
+            "price": 159.99,
+            "category": "Electronics",
+            "description": "Capture thrilling moments with our Waterproof 4K Action Camera. Waterproof and feature-packed, it's perfect for outdoor adventures."
+        },
+        {
+            "id": 8,
+            "title": "Genuine Leather Jacket",
+            "price": 299.99,
+            "category": "Apparel",
+            "description": "Add a touch of rebellious style with our Genuine Leather Jacket. Made with high-quality leather, it's a durable and timeless piece."
+        },
+        {
+            "id": 9,
+            "title": "Portable Bluetooth Speaker",
+            "price": 69.99,
+            "category": "Electronics",
+            "description": "Enjoy your favorite music anywhere with our Portable Bluetooth Speaker. Compact and powerful, it's ideal for travel and outdoor activities."
+        },
+        {
+            "id": 10,
+            "title": "RGB Gaming Mechanical Keyboard",
+            "price": 129.99,
+            "category": "Electronics",
+            "description": "Enhance your gaming experience with our RGB Gaming Mechanical Keyboard. With customizable lighting and tactile response, it's perfect for demanding gamers."
+        },
+        {
+            "id": 11,
+            "title": "Durable Travel Suitcase",
+            "price": 119.99,
+            "category": "Accessories",
+            "description": "Travel with confidence using our Durable Travel Suitcase. Designed for durability and convenience, it's the ideal choice for your adventures."
+        },
+        {
+            "id": 12,
+            "title": "Premium Automatic Coffee Maker",
+            "price": 89.99,
+            "category": "Appliances",
+            "description": "Enjoy the perfect cup of coffee every morning with our Premium Automatic Coffee Maker. With advanced features, it's easy to prepare your favorite drink."
+        },
+        {
+            "id": 13,
+            "title": "All-Terrain Mountain Bike",
+            "price": 499.99,
+            "category": "Sports and Leisure",
+            "description": "Explore challenging trails with our All-Terrain Mountain Bike. Sturdy and agile, it's suitable for cyclists of all levels."
+        },
+        {
+            "id": 14,
+            "title": "Non-Stick Cookware Set",
+            "price": 139.99,
+            "category": "Home and Kitchen",
+            "description": "Elevate your cooking with our Non-Stick Cookware Set. Practical and stylish, it makes meal preparation a pleasurable experience."
+        },
+        {
+            "id": 15,
+            "title": "High-Performance Basketball Shoes",
+            "price": 179.99,
+            "category": "Footwear",
+            "description": "Dominate the court with our High-Performance Basketball Shoes. Offering exceptional support and traction, they're ideal for ambitious players."
+        },
+        {
+            "id": 16,
+            "title": "Premium Electric Shaver",
+            "price": 79.99,
+            "category": "Personal Care",
+            "description": "Get a smooth and precise shave with our Premium Electric Shaver. Equipped with advanced technology for impeccable results."
+        },
+        {
+            "id": 17,
+            "title": "Tower Fan with Remote Control",
+            "price": 59.99,
+            "category": "Appliances",
+            "description": "Keep your home cool and comfortable with our Tower Fan. With an elegant design and remote control, it's perfect for any setting."
+        },
+        {
+            "id": 18,
+            "title": "Ergonomic Office Chair",
+            "price": 149.99,
+            "category": "Furniture",
+            "description": "Work comfortably for hours with our Ergonomic Office Chair. Modern design and adjustable support for maximum productivity."
+        },
+        {
+            "id": 19,
+            "title": "Professional Tool Kit",
+            "price": 129.99,
+            "category": "Tools",
+            "description": "Tackle projects with ease using our Professional Tool Kit. Durable and complete, it's essential for DIY enthusiasts."
+        },
+        {
+            "id": 20,
+            "title": "High-Quality Decorative Rug",
+            "price": 49.99,
+            "category": "Decor",
+            "description": "Add a touch of elegance to any space with our High-Quality Decorative Rug. Made with high-quality materials, it's durable and easy to clean."
+        },
+        {
+            "id": 21,
+            "title": "Efficient Washing Machine",
+            "price": 349.99,
+            "category": "Appliances",
+            "description": "Simplify your household chores with our Efficient Washing Machine. With advanced features, it delivers exceptional results."
+        },
+        {
+            "id": 22,
+            "title": "Stainless Steel Gas Stove with Double Oven",
+            "price": 699.99,
+            "category": "Appliances",
+            "description": "Cook with style using our Stainless Steel Gas Stove with Double Oven. Elegant design and advanced features to ease your meal preparations."
+        },
+        {
+            "id": 23,
+            "title": "Professional DSLR Camera",
+            "price": 899.99,
+            "category": "Electronics",
+            "description": "Capture extraordinary moments with our Professional DSLR Camera. Offering exceptional image quality, it's the choice of the most demanding photographers."
+        },
+        {
+            "id": 24,
+            "title": "Luggage Set",
+            "price": 169.99,
+            "category": "Accessories",
+            "description": "Travel in style with our Luggage Set. Durable and spacious, it's perfect for business trips or vacations."
+        },
+        {
+            "id": 25,
+            "title": "Premium Charcoal Grill",
+            "price": 249.99,
+            "category": "Barbecue",
+            "description": "Enjoy perfect barbecues with our Premium Charcoal Grill. With adjustable features and a large cooking area, it's a must-have for barbecue enthusiasts."
+        },
+        {
+            "id": 26,
+            "title": "Ultra-Thin LED Monitor",
+            "price": 199.99,
+            "category": "Electronics",
+            "description": "Upgrade your workspace with our Ultra-Thin LED Monitor. Stunning visuals and a sleek design for a more immersive computing experience."
+        },
+        {
+            "id": 27,
+            "title": "Compact Countertop Microwave Oven",
+            "price": 79.99,
+            "category": "Appliances",
+            "description": "Effortlessly prepare meals with our Compact Countertop Microwave Oven. Compact design and powerful performance for your kitchen."
+        },
+        {
+            "id": 28,
+            "title": "Luxury Fountain Pen Set",
+            "price": 59.99,
+            "category": "Office Supplies",
+            "description": "Make a statement with our Luxury Fountain Pen Set. Elegant design and smooth writing for a sophisticated writing experience."
+        },
+        {
+            "id": 29,
+            "title": "Digital Drawing Tablet",
+            "price": 129.99,
+            "category": "Electronics",
+            "description": "Unleash your creativity with our Digital Drawing Tablet. A versatile tool for digital artists and designers."
+        },
+        {
+            "id": 30,
+            "title": "High-Back Leather Executive Chair",
+            "price": 219.99,
+            "category": "Furniture",
+            "description": "Command the boardroom with our High-Back Leather Executive Chair. Comfortable and stylish, it's designed for executive-level performance."
+        },
+        {
+            "id": 31,
+            "title": "Smart Home Security System",
+            "price": 299.99,
+            "category": "Electronics",
+            "description": "Protect your home with our Smart Home Security System. Advanced features for monitoring and securing your living space."
+        },
+        {
+            "id": 32,
+            "title": "Professional Hair Dryer",
+            "price": 49.99,
+            "category": "Personal Care",
+            "description": "Achieve salon-quality results with our Professional Hair Dryer. Powerful and efficient for quick and stylish hair drying."
+        },
+        {
+            "id": 33,
+            "title": "Hydroponic Indoor Garden Kit",
+            "price": 129.99,
+            "category": "Home and Kitchen",
+            "description": "Grow your own fresh herbs and vegetables with our Hydroponic Indoor Garden Kit. Compact design for urban gardening enthusiasts."
+        },
+        {
+            "id": 34,
+            "title": "Outdoor Camping Tent",
+            "price": 119.99,
+            "category": "Outdoor and Recreation",
+            "description": "Experience the great outdoors with our Outdoor Camping Tent. Durable and weather-resistant, it's the perfect companion for camping adventures."
+        },
+        {
+            "id": 35,
+            "title": "Advanced GPS Fitness Tracker",
+            "price": 89.99,
+            "category": "Fitness",
+            "description": "Achieve your fitness goals with our Advanced GPS Fitness Tracker. Monitor your workouts and stay connected on the go."
+        },
+        {
+            "id": 36,
+            "title": "Modern Dining Table Set",
+            "price": 499.99,
+            "category": "Furniture",
+            "description": "Upgrade your dining area with our Modern Dining Table Set. Sleek design and high-quality materials for a stylish dining experience."
+        },
+        {
+            "id": 37,
+            "title": "Solar-Powered Outdoor LED Lights",
+            "price": 39.99,
+            "category": "Home and Garden",
+            "description": "Illuminate your outdoor space with our Solar-Powered Outdoor LED Lights. Eco-friendly and easy to install for a beautiful garden."
+        },
+        {
+            "id": 38,
+            "title": "Wireless Charging Pad",
+            "price": 29.99,
+            "category": "Electronics",
+            "description": "Simplify your charging experience with our Wireless Charging Pad. Compatible with various devices for hassle-free charging."
+        },
+        {
+            "id": 39,
+            "title": "Premium Leather Crossbody Bag",
+            "price": 79.99,
+            "category": "Accessories",
+            "description": "Complete your look with our Premium Leather Crossbody Bag. Stylish and practical, it's the perfect accessory for any occasion."
+        },
+        {
+            "id": 40,
+            "title": "Ultra HD 4K Smart TV",
+            "price": 799.99,
+            "category": "Electronics",
+            "description": "Immerse yourself in stunning visuals with our Ultra HD 4K Smart TV. Smart features for endless entertainment possibilities."
+        },
+        {
+            "id": 41,
+            "title": "Portable Power Bank",
+            "price": 49.99,
+            "category": "Electronics",
+            "description": "Stay charged on the go with our Portable Power Bank. Compact and powerful, it's a must-have for travelers and busy individuals."
+        },
+        {
+            "id": 42,
+            "title": "Premium Noise-Canceling Headphones",
+            "price": 199.99,
+            "category": "Electronics",
+            "description": "Escape into your own world with our Premium Noise-Canceling Headphones. Superior sound quality and comfort for an immersive listening experience."
+        },
+        {
+            "id": 43,
+            "title": "Adjustable Dumbbell Set",
+            "price": 149.99,
+            "category": "Fitness",
+            "description": "Elevate your home workouts with our Adjustable Dumbbell Set. Space-efficient and versatile for a variety of exercises."
+        },
+        {
+            "id": 44,
+            "title": "Compact Espresso Machine",
+            "price": 129.99,
+            "category": "Appliances",
+            "description": "Enjoy barista-quality coffee at home with our Compact Espresso Machine. Compact design and easy-to-use features for coffee enthusiasts."
+        },
+        {
+            "id": 45,
+            "title": "Portable Folding Table and Chair Set",
+            "price": 69.99,
+            "category": "Outdoor and Recreation",
+            "description": "Conveniently dine outdoors with our Portable Folding Table and Chair Set. Compact and easy to carry for picnics and camping."
+        },
+        {
+            "id": 46,
+            "title": "Smart LED Desk Lamp",
+            "price": 34.99,
+            "category": "Home Office",
+            "description": "Illuminate your workspace with our Smart LED Desk Lamp. Adjustable brightness and color temperature for optimal lighting."
+        },
+        {
+            "id": 47,
+            "title": "Premium Wine Decanter Set",
+            "price": 89.99,
+            "category": "Home and Kitchen",
+            "description": "Enhance your wine-drinking experience with our Premium Wine Decanter Set. Elegant design for aerating and serving your favorite wines."
+        },
+        {
+            "id": 48,
+            "title": "High-Capacity External Hard Drive",
+            "price": 79.99,
+            "category": "Electronics",
+            "description": "Expand your storage with our High-Capacity External Hard Drive. Fast and reliable for backing up your important files."
+        },
+        {
+            "id": 49,
+            "title": "Digital Air Fryer",
+            "price": 79.99,
+            "category": "Appliances",
+            "description": "Cook healthier meals with our Digital Air Fryer. Crispy and delicious results with little to no oil for guilt-free indulgence."
+        },
+        {
+            "id": 50,
+            "title": "Professional Makeup Brush Set",
+            "price": 29.99,
+            "category": "Beauty",
+            "description": "Achieve flawless makeup application with our Professional Makeup Brush Set. High-quality brushes for a professional finish."
+        },
+        {
+            "id": 51,
+            "title": "Ultra-Soft Bedding Sheet Set",
+            "price": 49.99,
+            "category": "Bedding",
+            "description": "Experience ultimate comfort with our Ultra-Soft Bedding Sheet Set. Breathable and luxurious for a restful night's sleep."
+        },
+        {
+            "id": 52,
+            "title": "Retro-Style Record Player",
+            "price": 149.99,
+            "category": "Electronics",
+            "description": "Enjoy the classic sound of vinyl with our Retro-Style Record Player. Vintage design with modern features for music enthusiasts."
+        },
+        {
+            "id": 53,
+            "title": "Wireless Karaoke Microphone",
+            "price": 39.99,
+            "category": "Electronics",
+            "description": "Sing your heart out with our Wireless Karaoke Microphone. Connects to your devices for a karaoke party anytime, anywhere."
+        },
+        {
+            "id": 54,
+            "title": "Portable Blender",
+            "price": 29.99,
+            "category": "Home and Kitchen",
+            "description": "Blend your favorite smoothies on the go with our Portable Blender. Compact and convenient for a healthy lifestyle."
+        },
+        {
+            "id": 55,
+            "title": "Memory Foam Neck Pillow",
+            "price": 19.99,
+            "category": "Travel",
+            "description": "Travel in comfort with our Memory Foam Neck Pillow. Provides support and relaxation during long journeys."
+        },
+        {
+            "id": 56,
+            "title": "Stylish Laptop Sleeve",
+            "price": 24.99,
+            "category": "Accessories",
+            "description": "Protect your laptop in style with our Stylish Laptop Sleeve. Slim design for easy carrying without compromising protection."
+        },
+        {
+            "id": 57,
+            "title": "Digital Meat Thermometer",
+            "price": 19.99,
+            "category": "Home and Kitchen",
+            "description": "Achieve perfect cooking results with our Digital Meat Thermometer. Accurate and easy to use for home chefs."
+        },
+        {
+            "id": 58,
+            "title": "Fitness Resistance Bands Set",
+            "price": 29.99,
+            "category": "Fitness",
+            "description": "Enhance your workouts with our Fitness Resistance Bands Set. Versatile and effective for strength training."
+        },
+        {
+            "id": 59,
+            "title": "Compact Car Vacuum Cleaner",
+            "price": 34.99,
+            "category": "Automotive",
+            "description": "Keep your car clean with our Compact Car Vacuum Cleaner. Portable and powerful for quick cleanups on the go."
+        },
+        {
+            "id": 60,
+            "title": "Wireless Charging Desk Organizer",
+            "price": 49.99,
+            "category": "Electronics",
+            "description": "Organize your desk and charge your devices with our Wireless Charging Desk Organizer. Stylish and functional for a tidy workspace."
+        },
+        {
+            "id": 61,
+            "title": "Premium Yoga Mat",
+            "price": 39.99,
+            "category": "Fitness",
+            "description": "Elevate your yoga practice with our Premium Yoga Mat. Comfortable and non-slip for a fulfilling workout experience."
+        },
+        {
+            "id": 62,
+            "title": "Cordless Handheld Vacuum Cleaner",
+            "price": 69.99,
+            "category": "Home and Kitchen",
+            "description": "Clean effortlessly with our Cordless Handheld Vacuum Cleaner. Lightweight and powerful for quick and efficient cleaning."
+        },
+        {
+            "id": 63,
+            "title": "Compact Folding Treadmill",
+            "price": 299.99,
+            "category": "Fitness",
+            "description": "Stay active at home with our Compact Folding Treadmill. Foldable and feature-packed for convenient workouts."
+        },
+        {
+            "id": 64,
+            "title": "Gaming Mouse and Keyboard Combo",
+            "price": 79.99,
+            "category": "Electronics",
+            "description": "Dominate your gaming sessions with our Gaming Mouse and Keyboard Combo. Customizable and responsive for a competitive edge."
+        },
+        {
+            "id": 65,
+            "title": "Ultrasonic Cool Mist Humidifier",
+            "price": 49.99,
+            "category": "Home and Kitchen",
+            "description": "Create a comfortable environment with our Ultrasonic Cool Mist Humidifier. Quiet and efficient for a better living space."
+        },
+        {
+            "id": 66,
+            "title": "Premium Wine Cooler",
+            "price": 149.99,
+            "category": "Home and Kitchen",
+            "description": "Chill your wines to perfection with our Premium Wine Cooler. Stylish and reliable for wine enthusiasts."
+        },
+        {
+            "id": 67,
+            "title": "Portable Folding Picnic Table",
+            "price": 59.99,
+            "category": "Outdoor and Recreation",
+            "description": "Enjoy outdoor meals with our Portable Folding Picnic Table. Compact and sturdy for picnics, camping, and more."
+        },
+        {
+            "id": 68,
+            "title": "Smart LED Bathroom Mirror",
+            "price": 129.99,
+            "category": "Home and Kitchen",
+            "description": "Illuminate your bathroom with our Smart LED Bathroom Mirror. Modern design with built-in lighting for a stylish bathroom."
+        },
+        {
+            "id": 69,
+            "title": "Bluetooth Car Kit",
+            "price": 29.99,
+            "category": "Automotive",
+            "description": "Upgrade your car with our Bluetooth Car Kit. Hands-free calling and music streaming for a safer and enjoyable driving experience."
+        },
+        {
+            "id": 70,
+            "title": "Portable Outdoor Fire Pit",
+            "price": 79.99,
+            "category": "Outdoor and Recreation",
+            "description": "Stay warm and cozy outdoors with our Portable Outdoor Fire Pit. Compact and easy to use for camping and backyard gatherings."
+        },
+        {
+            "id": 71,
+            "title": "Ceramic Non-Stick Cookware Set",
+            "price": 149.99,
+            "category": "Home and Kitchen",
+            "description": "Cook with ease using our Ceramic Non-Stick Cookware Set. Durable and stylish for a delightful cooking experience."
+        },
+        {
+            "id": 72,
+            "title": "Compact Air Purifier",
+            "price": 89.99,
+            "category": "Home and Kitchen",
+            "description": "Breathe clean air with our Compact Air Purifier. Efficient and quiet for a healthier home environment."
+        },
+        {
+            "id": 73,
+            "title": "Retro Bluetooth Speaker",
+            "price": 49.99,
+            "category": "Electronics",
+            "description": "Enjoy vintage vibes with our Retro Bluetooth Speaker. Modern technology in a classic design for a unique audio experience."
+        },
+        {
+            "id": 74,
+            "title": "Portable Photo Printer",
+            "price": 79.99,
+            "category": "Electronics",
+            "description": "Print memories on the go with our Portable Photo Printer. Compact and easy to use for instant photo gratification."
+        },
+        {
+            "id": 75,
+            "title": "Adjustable Weight Bench",
+            "price": 129.99,
+            "category": "Fitness",
+            "description": "Enhance your strength training with our Adjustable Weight Bench. Versatile and sturdy for a variety of exercises."
+        }
+    ]
+}
